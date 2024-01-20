@@ -2,3 +2,4 @@ pip install robotframework-seleniumlibrary
 builtinlibrary
 Collection
 stringlib
+oslib
